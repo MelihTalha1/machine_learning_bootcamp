@@ -4,6 +4,7 @@ Amazon Ürünlerinin Tüketici Yorumları verisi üzerinde çalışmamı gerçek
 grafik dağılımlarını incelemeleye başladım.Sayısal değerler arasındaki korelasyonu inceledim veriler üzerinde incelemeleri gerçekleştirdim.
 İkinci aşama olarak veriler üzerinde eksik verileri temizleme işlemi gerçekleştirdim ve aykırı değerleri inceledim.Makine öğrenmesi aşaması için etiket değeri belirleme ve kategorik verilere one-hot encoding işlemi uyguladım ardından standardizasyon aşamasını gerçekleştirerek makine öğrenmesine hazır hale getirdim.
 Verileri train ve test olarak ayırdım verim için en iyi model ![image](https://github.com/user-attachments/assets/6a775398-9698-4e4a-96c0-beff19844aba)
+
 %97 ile Lojistik Regresyon oldu.Hiperparametre optimizasyonu,Test verisi üzerinde tahmin ve değerlendirme,sınıflandırma raporu ve confusion matrix ile işlemlerimi tamamlamış oldum.
 
 # Metrikler
